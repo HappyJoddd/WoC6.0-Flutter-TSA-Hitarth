@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74929280614",
+    "project_id": "wocproject-aaa9d",
+    "storage_bucket": "wocproject-aaa9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74929280614:android:d782a7421a598dd3803fa7",
+        "android_client_info": {
+          "package_name": "com.example.wocproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUGMx2hwSeI5Jt1XI7BokFhq6ayygFj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
